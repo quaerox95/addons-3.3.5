@@ -1,0 +1,27 @@
+------------------------------------------------------------------------
+r108 | xinhuan | 2012-10-07 06:08:27 +0000 (Sun, 07 Oct 2012) | 1 line
+Changed paths:
+   A /tags/v3.17 (from /trunk:107)
+
+Tag release v3.17.
+------------------------------------------------------------------------
+r107 | xinhuan | 2012-10-06 10:14:46 +0000 (Sat, 06 Oct 2012) | 1 line
+Changed paths:
+   M /trunk/IPopBar.lua
+   M /trunk/IPopBar.toc
+
+The MicroMenuButtons will now show up in the PetBattleFrame. Update version to 3.17.
+------------------------------------------------------------------------
+r105 | xinhuan | 2012-09-23 13:11:53 +0000 (Sun, 23 Sep 2012) | 1 line
+Changed paths:
+   M /trunk/IPopBar.lua
+   M /trunk/IPopBar.toc
+
+Update version to 3.16. Update TOC.
+------------------------------------------------------------------------
+r104 | xinhuan | 2012-09-23 13:01:08 +0000 (Sun, 23 Sep 2012) | 1 line
+Changed paths:
+   M /trunk/IPopBar.lua
+
+Reapply a fix for AchievementMicroButton_Update() error when IPopBar.
+------------------------------------------------------------------------
